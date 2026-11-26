@@ -1,8 +1,8 @@
 # The Printer Finally Answers
 
-[![make.fun](https://make.fun/badge/u-mang-the-printer-finally-answers-8fbf0907.svg)](https://make.fun/competitions/u-mang-the-printer-finally-answers-8fbf0907)
-[![Rank](https://make.fun/badge/u-mang-the-printer-finally-answers-8fbf0907/berkahmuse/printer-answers-syukuran/rank.svg)](https://make.fun/competitions/u-mang-the-printer-finally-answers-8fbf0907)
-[![Reward](https://make.fun/badge/u-mang-the-printer-finally-answers-8fbf0907/berkahmuse/printer-answers-syukuran/reward.svg)](https://make.fun/competitions/u-mang-the-printer-finally-answers-8fbf0907)
+[![make.fun](https://make.fun/badge/u-mang-the-printer-finally-answers-8fbf0907.svg)](https://make.fun/bounty/u-mang-the-printer-finally-answers-8fbf0907)
+[![Rank](https://make.fun/badge/u-mang-the-printer-finally-answers-8fbf0907/berkahmuse/printer-answers-syukuran/rank.svg)](https://make.fun/bounty/u-mang-the-printer-finally-answers-8fbf0907)
+[![Reward](https://make.fun/badge/u-mang-the-printer-finally-answers-8fbf0907/berkahmuse/printer-answers-syukuran/reward.svg)](https://make.fun/bounty/u-mang-the-printer-finally-answers-8fbf0907)
 
 Entry for the [make.fun](https://make.fun) competition **The Printer Finally Answers** (`u-mang-the-printer-finally-answers-8fbf0907`).
 
